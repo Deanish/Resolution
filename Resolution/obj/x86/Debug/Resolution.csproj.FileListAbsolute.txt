@@ -1,0 +1,46 @@
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\bin\Debug\Resolution.exe
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\bin\Debug\Resolution.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form2.resources
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.exe
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form3.resources
+c:\users\admin\documents\visual studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form4.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form5.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form6.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form10.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form11.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form12.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form13.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form14.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form7.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form8.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Resolution\Resolution\obj\x86\Debug\Resolution.Form9.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.exe
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.pdb
+I:\Resolution\Resolution\bin\Debug\Resolution.exe
+I:\Resolution\Resolution\bin\Debug\Resolution.pdb
+I:\Resolution\Resolution\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form1.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form10.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form11.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form12.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form13.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form14.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form2.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form3.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form4.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form5.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form6.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form7.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form8.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Form9.resources
+I:\Resolution\Resolution\obj\x86\Debug\Resolution.Properties.Resources.resources
+I:\Resolution\Resolution\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Resolution\Resolution\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Resolution\Resolution\obj\x86\Debug\Resolution.exe
+G:\Resolution\Resolution\obj\x86\Debug\Resolution.pdb
